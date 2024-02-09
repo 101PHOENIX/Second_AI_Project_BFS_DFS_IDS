@@ -1,0 +1,14 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Bidirectional_Search Statistics: Oradea to Bucharest 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Trip cost:  429
+
+Shortest Path:
+
+['Oradea', 'Sibiu', 'Rimnicu_Vilcea', 'Pitesti', 'Bucharest'] 
+
+Other Routes:
+    
+['Fagaras', 'Pitesti', 'Oradea', 'Hirsova', 'Craiova', 'Arad', 'Zerind', 'Urziceni', 'Vaslui', 'Giurgiu', 'Rimnicu_Vilcea', 'Bucharest', 'Sibiu', 'Timisoara']
